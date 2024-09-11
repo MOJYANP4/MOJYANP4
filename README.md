@@ -10,8 +10,8 @@
 I’m currently learning Python and AI.<br>
 Ask me about Ishikawa prefecture.
 
-| Rank | Hobbies       |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+| Rank | Languages |
+|-----:|-----------|
+|     1| C＋＋　　　|
+|     2| C         |
+|     3| Python    |
